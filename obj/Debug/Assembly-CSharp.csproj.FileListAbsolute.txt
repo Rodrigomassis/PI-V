@@ -1,0 +1,161 @@
+E:\PI-V\PI-V\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\PI-V\PI-V\Temp\bin\Debug\Assembly-CSharp.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEditor.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.UI.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.VR.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Unity.DataContract.dll
+E:\PI-V\PI-V\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Unity.CecilTools.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEditor.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.UI.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\PI-V\PI-V\Temp\bin\Debug\UnityEngine.VR.xml
+E:\PI-V\PI-V\obj\Debug\Assembly-CSharp.dll
+E:\PI-V\PI-V\obj\Debug\Assembly-CSharp.pdb
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Assembly-CSharp.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEditor.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.UI.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.VR.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Unity.DataContract.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Unity.CecilTools.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEditor.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.UI.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\PI-V2\PI-V\PI-V\Temp\bin\Debug\UnityEngine.VR.xml
+E:\PI-V2\PI-V\PI-V\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\PI-V2\PI-V\PI-V\obj\Debug\Assembly-CSharp.dll
+E:\PI-V2\PI-V\PI-V\obj\Debug\Assembly-CSharp.pdb
+C:\Users\letic\Downloads\PI-V\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\letic\Downloads\PI-V\obj\Debug\Assembly-CSharp.dll
+C:\Users\letic\Downloads\PI-V\obj\Debug\Assembly-CSharp.pdb
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\System.Data.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEditor.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEditor.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\letic\Downloads\PI-V\Temp\bin\Debug\UnityEngine.VR.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Assembly-CSharp.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Mono.Data.Sqlite.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\System.Data.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEditor.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.UI.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.VR.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Mono.Cecil.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Unity.DataContract.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Unity.CecilTools.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEditor.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.UI.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\PI-V (1)\PI-V (1)\PI-V\Temp\bin\Debug\UnityEngine.VR.xml
+E:\PI-V (1)\PI-V (1)\PI-V\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\PI-V (1)\PI-V (1)\PI-V\obj\Debug\Assembly-CSharp.dll
+E:\PI-V (1)\PI-V (1)\PI-V\obj\Debug\Assembly-CSharp.pdb
+C:\Users\aluno\Downloads\PI-V\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\PI-V\obj\Debug\Assembly-CSharp.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Facebook.Unity.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\System.Data.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEditor.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEditor.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\aluno\Downloads\PI-V\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\aluno\Downloads\PI-V\obj\Debug\Assembly-CSharp.pdb
